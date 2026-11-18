@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "extension": "webp",
+  "prefix": "frame_",
+  "padding": 4,
+  "desktop": { "path": "frames/desktop/", "count": 190, "width": 1920, "height": 1080, "fps": 24 },
+  "mobile":  { "path": "frames/mobile/",  "count": 95, "width": 720, "height": 450, "fps": 12,
+               "focus": { "x": 0.5, "y": 0.47 } }
+}
